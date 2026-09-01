@@ -77,7 +77,8 @@ The dashboard includes a refresh mechanism that:
 - Recalculates KPIs
 - Updates charts
 - Refreshes recent files
-- Displays the latest available information
+- Displays the latest available information.
+- 
 
 ---
 
